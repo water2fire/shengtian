@@ -3,8 +3,8 @@
   "updateUrl":"http://appdown.hezubar.com/shengtian_download/",
   "branches":[
     {
-      "code":"1001",
-      "version":"1.0.1",
+      "code":"1000",
+      "version":"1.0.0",
       "status":"release"
     }
   ]
